@@ -1,0 +1,35 @@
+.js-fullheight {
+  height: 100vh;
+}
+
+.one-third {
+  width: 100%;
+  position: relative;
+}
+
+.one-third.img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: '';
+  opacity: .3;
+  background: #000;
+}
+
+@media screen and (max-width: 768px) {
+  .js-fullheight {
+    height: 600px;
+  }
+  .one-third.img {
+    min-height: 400px;
+  }
+}
