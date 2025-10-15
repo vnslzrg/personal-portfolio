@@ -116,7 +116,7 @@ function App() {
               <div
                 className="one-third js-fullheight order-md-last img"
                 style={{ 
-                  backgroundImage: "url('/images/me3.png')",
+                  backgroundImage: "url(images/me3.png)",
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
