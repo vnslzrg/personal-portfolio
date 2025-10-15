@@ -12,7 +12,7 @@ function App() {
     <nav className="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
       <div className="container">
         <a className="navbar-brand" href="index.html">
-          VENEESE
+          Appdev1
         </a>
         <button
           className="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle"
@@ -44,7 +44,7 @@ function App() {
             </li>
             <li className="nav-item">
               <a href="#services-section" className="nav-link">
-                <span>Services</span>
+                <span>Hobbies</span>
               </a>
             </li>
             <li className="nav-item">
@@ -55,11 +55,6 @@ function App() {
             <li className="nav-item">
               <a href="#projects-section" className="nav-link">
                 <span>Projects</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#blog-section" className="nav-link">
-                <span>My Blog</span>
               </a>
             </li>
             <li className="nav-item">
@@ -82,7 +77,7 @@ function App() {
             >
               <div
                 className="one-third js-fullheight order-md-last img"
-                style={{ backgroundImage: "url(images/bg_1.png)" }}
+                style={{ backgroundImage: "url(images/me2.png)" }}
               >
                 <div className="overlay" />
               </div>
@@ -93,9 +88,8 @@ function App() {
                 <div className="text">
                   <span className="subheading">Hello!</span>
                   <h1 className="mb-4 mt-3">
-                    I'm <span>Veneese Lazaraga </span>
+                    I'm <span>Veneese!</span>
                   </h1>
-                  <h2 className="mb-4">Aspiring SQA Specialist</h2>
                   <p>
                     <a href="#" className="btn btn-primary py-3 px-4">
                       Hire me
@@ -122,7 +116,7 @@ function App() {
               <div
                 className="one-third js-fullheight order-md-last img"
                 style={{ 
-                  backgroundImage: "url('/images/bg_2.png')",
+                  backgroundImage: "url('/images/me3.png')",
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
@@ -136,7 +130,7 @@ function App() {
                 <div className="text">
                   <span className="subheading">Hello!</span>
                   <h1 className="mb-4 mt-3">
-                    I'm a <span>web designer</span> based in Pampanga
+                    aspiring <span>UI/UX designer & SQA</span> from the Philippines.
                   </h1>
                   <p>
                     <a href="#" className="btn btn-primary py-3 px-4">
@@ -167,7 +161,7 @@ function App() {
               <div className="overlay" />
               <div
                 className="img d-flex align-self-stretch align-items-center"
-                style={{ backgroundImage: "url(images/bg_1.png)" }}
+                style={{ backgroundImage: "url(images/me2.png)" }}
               ></div>
             </div>
           </div>
@@ -177,44 +171,25 @@ function App() {
                 <h1 className="big">About</h1>
                 <h2 className="mb-4">About Me</h2>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Hi! I’m <strong>Veneese</strong>, an aspiring UI/UX designer and Software Quality Assurance (SQA) professional from the Philippines. I’m currently studying and passionate about creating designs and solutions that are both user-friendly and functional. I love learning new skills and exploring ways to make digital experiences better.
                 </p>
                 <ul className="about-info mt-4 px-md-0 px-2">
                   <li className="d-flex">
                     <span>Name:</span> <span>Veneese Julia Lazaraga</span>
                   </li>
                   <li className="d-flex">
-                    <span>Date of birth:</span> <span>August 25, 2005</span>
+                    <span>Education:</span> <span>Bachelor of Science in Information Systems</span>
                   </li>
                   <li className="d-flex">
-                    <span>Address:</span> <span>Pampanga</span>
+                    <span>Location:</span> <span>Pampanga</span>
                   </li>
                   <li className="d-flex">
-                    <span>Zip code:</span> <span>2016</span>
+                    <span>Passion:</span> <span>I’m passionate about exploring, experimenting, and understanding how things work.</span>
                   </li>
                   <li className="d-flex">
                     <span>Email:</span> <span>veneesejulialazaraga@gmail.com</span>
                   </li>
-                  <li className="d-flex">
-                    <span>Phone: </span> <span>09192342331</span>
-                  </li>
                 </ul>
-              </div>
-            </div>
-            <div className="counter-wrap ftco-animate d-flex mt-md-3">
-              <div className="text">
-                <p className="mb-4">
-                  <span className="number" data-number={120}>
-                    0 
-                  </span>
-                  <span>Project complete</span>
-                </p>
-                <p>
-                  <a href="#" className="btn btn-primary py-3 px-3">
-                    Download CV
-                  </a>
-                </p>
               </div>
             </div>
           </div>
@@ -228,74 +203,42 @@ function App() {
             <h1 className="big big-2">Resume</h1>
             <h2 className="mb-4">Resume</h2>
             <p>
-              A small river named Duden flows by their place and supplies it with
-              the necessary regelialia. It is a paradisematic country, in which
-              roasted parts of sentences fly into your mouth.
+              This section presents a comprehensive overview of my skills, experiences, and projects, demonstrating my expertise and growth in UI/UX design, and web development.
             </p>
           </div>
         </div>
         <div className="row">
           <div className="col-md-6">
             <div className="resume-wrap ftco-animate">
-              <span className="date">2014-2015</span>
-              <h2>Master Degree of Design</h2>
-              <span className="position">Cambridge University</span>
+              <span className="date">2023–Present</span>
+              <h2>Bachelor of Science in Information Systems</h2>
+              <span className="position">La Verdad Christian College</span>
               <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
+                Pursuing a Bachelor of Science in Information Systems at La Verdad Christian College, developing my skills in web design, programming, and software quality assurance.
               </p>
             </div>
             <div className="resume-wrap ftco-animate">
-              <span className="date">2014-2015</span>
-              <h2>Bachelor's Degree of C.A</h2>
-              <span className="position">Cambridge University</span>
+              <span className="date">2017–2023</span>
+              <h2>Secondary School</h2>
+              <span className="position">Sitero Francisco Memorial National High School</span>
               <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
-              </p>
-            </div>
-            <div className="resume-wrap ftco-animate">
-              <span className="date">2014-2015</span>
-              <h2>Diploma in Computer</h2>
-              <span className="position">Cambridge University</span>
-              <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
-              </p>
+                Completed my secondary education with a focus on the ICT strand, which strengthened my interest in web design and technology.              </p>
             </div>
           </div>
           <div className="col-md-6">
             <div className="resume-wrap ftco-animate">
-              <span className="date">2014-2015</span>
-              <h2>Art &amp; Creative Director</h2>
-              <span className="position">Cambridge University</span>
+              <span className="date">2022–2023</span>
+              <h2>TESDA National Certificate II (NC II) Holder</h2>
+              <span className="position">Gtechnica</span>
               <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
-              </p>
+              Earned certification in Computer System Servicing (CSS) under TESDA, demonstrating proficiency in computer assembly, maintenance, troubleshooting, and basic network configuration.</p>
             </div>
             <div className="resume-wrap ftco-animate">
-              <span className="date">2014-2015</span>
-              <h2>Wordpress Developer</h2>
-              <span className="position">Cambridge University</span>
+              <span className="date">2023-2024</span>
+              <h2>Online Courses Certification</h2>
+              <span className="position">Udemy</span>
               <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
-              </p>
-            </div>
-            <div className="resume-wrap ftco-animate">
-              <span className="date">2017-2018</span>
-              <h2>UI/UX Designer</h2>
-              <span className="position">Cambridge University</span>
-              <p className="mt-4">
-                A small river named Duden flows by their place and supplies it
-                with the necessary regelialia. It is a paradisematic country, in
-                which roasted parts of sentences fly into your mouth.
+                Earned an online certificate for completing a hands-on course covering C# programming fundamentals.
               </p>
             </div>
           </div>
@@ -303,7 +246,11 @@ function App() {
         <div className="row justify-content-center mt-5">
           <div className="col-md-6 text-center ftco-animate">
             <p>
-              <a href="#" className="btn btn-primary py-4 px-5">
+              <a
+                href="/Lazaraga_resume.pdf"
+                download="Lazaraga_resume.pdf"
+                className="btn btn-primary py-3 px-4 small-btn"
+              >
                 Download CV
               </a>
             </p>
@@ -315,11 +262,11 @@ function App() {
       <div className="container">
         <div className="row justify-content-center py-5 mt-5">
           <div className="col-md-12 heading-section text-center ftco-animate">
-            <h1 className="big big-2">Services</h1>
-            <h2 className="mb-4">Services</h2>
+            <h1 className="big big-2">Hobbies</h1>
+            <h2 className="mb-4">Hobbies</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia
+              Outside academics, I love exploring web design tools, and discovering new ways to improve my creativity.
+              I also enjoy listening to music, and spending time with friends to keep life balanced.
             </p>
           </div>
         </div>
@@ -327,60 +274,60 @@ function App() {
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-analysis" />
+                <i className="fi fi-rr-music"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">Web Design</h3>
+                <h3 className="mb-5">Listening to music</h3>
               </div>
             </a>
           </div>
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-flasks" />
+                  <i className="fi fi-rr-camera"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">Phtography</h3>
+                <h3 className="mb-5">Photography</h3>
               </div>
             </a>
           </div>
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-ideas" />
+                <i className="fi fi-rr-search"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">Web Developer</h3>
+                <h3 className="mb-5">Testing User Interfaces </h3>
               </div>
             </a>
           </div>
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-analysis" />
+                <i className="fi fi-rr-film"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">App Developing</h3>
+                <h3 className="mb-5">Watching Movies & Series</h3>
               </div>
             </a>
           </div>
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-flasks" />
+                <i className="fi fi-rr-book"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">Branding</h3>
+                <h3 className="mb-5">Reading Books</h3>
               </div>
             </a>
           </div>
           <div className="col-md-4 text-center d-flex ftco-animate">
             <a href="#" className="services-1">
               <span className="icon">
-                <i className="flaticon-ideas" />
+                <i className="fi fi-rr-restaurant"></i>
               </span>
               <div className="desc">
-                <h3 className="mb-5">Product Strategy</h3>
+                <h3 className="mb-5">Trying new foods</h3>
               </div>
             </a>
           </div>
@@ -394,15 +341,14 @@ function App() {
             <h1 className="big big-2">Skills</h1>
             <h2 className="mb-4">My Skills</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia
+              Here are the technologies and tools I’m proficient in, and the areas I love working in.
             </p>
           </div>
         </div>
         <div className="row">
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>Photoshop</h3>
+              <h3>VsCode</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-1"
@@ -419,7 +365,7 @@ function App() {
           </div>
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>jQuery</h3>
+              <h3>Figma</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-2"
@@ -436,7 +382,7 @@ function App() {
           </div>
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>HTML5</h3>
+              <h3>Laravel</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-3"
@@ -453,24 +399,24 @@ function App() {
           </div>
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>CSS3</h3>
+              <h3>React</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-4"
                   role="progressbar"
-                  aria-valuenow={90}
+                  aria-valuenow={70}
                   aria-valuemin={0}
                   aria-valuemax={100}
-                  style={{ width: "90%" }}
+                  style={{ width: "70%" }}
                 >
-                  <span>90%</span>
+                  <span>70%</span>
                 </div>
               </div>
             </div>
           </div>
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>WordPress</h3>
+              <h3>CSS</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-5"
@@ -487,7 +433,7 @@ function App() {
           </div>
           <div className="col-md-6 animate-box">
             <div className="progress-wrap ftco-animate">
-              <h3>SEO</h3>
+              <h3>HTML</h3>
               <div className="progress">
                 <div
                   className="progress-bar color-6"
@@ -510,10 +456,9 @@ function App() {
         <div className="row justify-content-center pb-5">
           <div className="col-md-12 heading-section text-center ftco-animate">
             <h1 className="big big-2">Projects</h1>
-            <h2 className="mb-4">Our Projects</h2>
+            <h2 className="mb-4">Projects</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia
+              This section showcases a variety of my projects — from creative designs and written works to digital applications and recipe development. Each project reflects my passion for learning, innovation, and creating meaningful work that connects with people in different ways.
             </p>
           </div>
         </div>
@@ -521,54 +466,54 @@ function App() {
           <div className="col-md-4">
             <div
               className="project img ftco-animate d-flex justify-content-center align-items-center"
-              style={{ backgroundImage: "url(images/project-4.jpg)" }}
+              style={{ backgroundImage: "url(images/note.jpg)" }}
             >
               <div className="overlay" />
               <div className="text text-center p-4">
                 <h3>
-                  <a href="#">Branding &amp; Illustration Design</a>
+                  <a href="#">Note Application</a>
                 </h3>
-                <span>Web Design</span>
+                <span>A notes app built with JavaScript, allowing users to create, read, update, and delete notes while practicing CRUD and data management.</span>
               </div>
             </div>
           </div>
           <div className="col-md-8">
             <div
               className="project img ftco-animate d-flex justify-content-center align-items-center"
-              style={{ backgroundImage: "url(images/project-5.jpg)" }}
+              style={{ backgroundImage: "url(images/tastewise.png)" }}
             >
               <div className="overlay" />
               <div className="text text-center p-4">
                 <h3>
-                  <a href="#">Branding &amp; Illustration Design</a>
+                  <a href="#">Tastewise</a>
                 </h3>
-                <span>Web Design</span>
+                <span>A GenAI platform built for the food and beverage industry, used by leading brands to go beyond static insights and drive growth, designed with <strong>Figma</strong>, focusing on design and user experience.</span>
               </div>
             </div>
           </div>
           <div className="col-md-8">
             <div
               className="project img ftco-animate d-flex justify-content-center align-items-center"
-              style={{ backgroundImage: "url(images/project-1.jpg)" }}
+              style={{ backgroundImage: "url(images/medium.png)" }}
             >
               <div className="overlay" />
               <div className="text text-center p-4">
                 <h3>
-                  <a href="#">Branding &amp; Illustration Design</a>
+                  <a href="#">Medium</a>
                 </h3>
-                <span>Web Design</span>
+                <span>A publishing platform where people can read and share insightful stories on topics that matter most, built with <strong>Figma</strong>, which helped me understand content presentation and user engagement.</span>
               </div>
             </div>
             <div
               className="project img ftco-animate d-flex justify-content-center align-items-center"
-              style={{ backgroundImage: "url(images/project-6.jpg)" }}
+              style={{ backgroundImage: "url(images/ispmnes.png)" }}
             >
               <div className="overlay" />
               <div className="text text-center p-4">
                 <h3>
-                  <a href="#">Branding &amp; Illustration Design</a>
+                  <a href="#">Instructor-Centered Classroom Monitoring and Attendance System</a>
                 </h3>
-                <span>Web Design</span>
+                <span>A platform we are currently developing to help instructors efficiently manage attendance and classroom activities.</span>
               </div>
             </div>
           </div>
@@ -577,213 +522,32 @@ function App() {
               <div className="col-md-12">
                 <div
                   className="project img ftco-animate d-flex justify-content-center align-items-center"
-                  style={{ backgroundImage: "url(images/project-2.jpg)" }}
+                  style={{ backgroundImage: "url(images/foodorder.png)" }}
                 >
                   <div className="overlay" />
                   <div className="text text-center p-4">
                     <h3>
-                      <a href="#">Branding &amp; Illustration Design</a>
+                      <a href="#">DishDash</a>
                     </h3>
-                    <span>Web Design</span>
+                    <span>A mobile ordering app designed with <strong>Figma</strong>, focusing on UI/UX and efficient order management.</span>
                   </div>
                 </div>
               </div>
               <div className="col-md-12">
                 <div
                   className="project img ftco-animate d-flex justify-content-center align-items-center"
-                  style={{ backgroundImage: "url(images/project-3.jpg)" }}
+                  style={{ backgroundImage: "url(images/hibaby.png)" }}
                 >
                   <div className="overlay" />
                   <div className="text text-center p-4">
                     <h3>
-                      <a href="#">Branding &amp; Illustration Design</a>
+                      <a href="#">Hi, Baby!</a>
                     </h3>
-                    <span>Web Design</span>
+                    <span>An online baby clothing store where users can browse products, place orders, and manage shopping carts, designed with <strong>Figma</strong>, focusing on UI/UX design.</span>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section className="ftco-section" id="blog-section">
-      <div className="container">
-        <div className="row justify-content-center mb-5 pb-5">
-          <div className="col-md-7 heading-section text-center ftco-animate">
-            <h1 className="big big-2">Blog</h1>
-            <h2 className="mb-4">Our Blog</h2>
-            <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia
-            </p>
-          </div>
-        </div>
-        <div className="row d-flex">
-          <div className="col-md-4 d-flex ftco-animate">
-            <div className="blog-entry justify-content-end">
-              <a
-                href="single.html"
-                className="block-20"
-                style={{ backgroundImage: 'url("images/image_1.jpg")' }}
-              ></a>
-              <div className="text mt-3 float-right d-block">
-                <div className="d-flex align-items-center mb-3 meta">
-                  <p className="mb-0">
-                    <span className="mr-2">June 21, 2019</span>
-                    <a href="#" className="mr-2">
-                      Admin
-                    </a>
-                    <a href="#" className="meta-chat">
-                      <span className="icon-chat" /> 3
-                    </a>
-                  </p>
-                </div>
-                <h3 className="heading">
-                  <a href="single.html">
-                    Why Lead Generation is Key for Business Growth
-                  </a>
-                </h3>
-                <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 d-flex ftco-animate">
-            <div className="blog-entry justify-content-end">
-              <a
-                href="single.html"
-                className="block-20"
-                style={{ backgroundImage: 'url("images/image_2.jpg")' }}
-              ></a>
-              <div className="text mt-3 float-right d-block">
-                <div className="d-flex align-items-center mb-3 meta">
-                  <p className="mb-0">
-                    <span className="mr-2">June 21, 2019</span>
-                    <a href="#" className="mr-2">
-                      Admin
-                    </a>
-                    <a href="#" className="meta-chat">
-                      <span className="icon-chat" /> 3
-                    </a>
-                  </p>
-                </div>
-                <h3 className="heading">
-                  <a href="single.html">
-                    Why Lead Generation is Key for Business Growth
-                  </a>
-                </h3>
-                <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 d-flex ftco-animate">
-            <div className="blog-entry">
-              <a
-                href="single.html"
-                className="block-20"
-                style={{ backgroundImage: 'url("images/image_3.jpg")' }}
-              ></a>
-              <div className="text mt-3 float-right d-block">
-                <div className="d-flex align-items-center mb-3 meta">
-                  <p className="mb-0">
-                    <span className="mr-2">June 21, 2019</span>
-                    <a href="#" className="mr-2">
-                      Admin
-                    </a>
-                    <a href="#" className="meta-chat">
-                      <span className="icon-chat" /> 3
-                    </a>
-                  </p>
-                </div>
-                <h3 className="heading">
-                  <a href="single.html">
-                    Why Lead Generation is Key for Business Growth
-                  </a>
-                </h3>
-                <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section
-      className="ftco-section ftco-no-pt ftco-no-pb ftco-counter img"
-      id="section-counter"
-    >
-      <div className="container">
-        <div className="row d-md-flex align-items-center">
-          <div className="col-md d-flex justify-content-center counter-wrap ftco-animate">
-            <div className="block-18">
-              <div className="text">
-                <strong className="number" data-number={100}>
-                  0
-                </strong>
-                <span>Awards</span>
-              </div>
-            </div>
-          </div>
-          <div className="col-md d-flex justify-content-center counter-wrap ftco-animate">
-            <div className="block-18">
-              <div className="text">
-                <strong className="number" data-number={1200}>
-                  0
-                </strong>
-                <span>Complete Projects</span>
-              </div>
-            </div>
-          </div>
-          <div className="col-md d-flex justify-content-center counter-wrap ftco-animate">
-            <div className="block-18">
-              <div className="text">
-                <strong className="number" data-number={1200}>
-                  0
-                </strong>
-                <span>Happy Customers</span>
-              </div>
-            </div>
-          </div>
-          <div className="col-md d-flex justify-content-center counter-wrap ftco-animate">
-            <div className="block-18">
-              <div className="text">
-                <strong className="number" data-number={500}>
-                  0
-                </strong>
-                <span>Cups of coffee</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section
-      className="ftco-section ftco-hireme img margin-top"
-      style={{ backgroundImage: "url(images/bg_1.jpg)" }}
-    >
-      <div className="container">
-        <div className="row justify-content-center">
-          <div className="col-md-7 ftco-animate text-center">
-            <h2>
-              I'm <span>Available</span> for freelancing
-            </h2>
-            <p>
-              A small river named Duden flows by their place and supplies it with
-              the necessary regelialia.
-            </p>
-            <p className="mb-0">
-              <a href="#" className="btn btn-primary py-3 px-5">
-                Hire me
-              </a>
-            </p>
           </div>
         </div>
       </div>
@@ -798,8 +562,7 @@ function App() {
             <h1 className="big big-2">Contact</h1>
             <h2 className="mb-4">Contact Me</h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia
+              Feel free to reach out for collaborations, project inquiries, or just to connect!
             </p>
           </div>
         </div>
@@ -807,42 +570,72 @@ function App() {
           <div className="col-md-6 col-lg-3 d-flex ftco-animate">
             <div className="align-self-stretch box p-4 text-center">
               <div className="icon d-flex align-items-center justify-content-center">
-                <span className="icon-map-signs" />
+               <i className="fab fa-linkedin fa-2x"style={{ color: '#f9a825' }}></i>
               </div>
-              <h3 className="mb-4">Address</h3>
-              <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+              <h3 className="mb-4">LinkedIn</h3>
+              <a
+                href="https://www.linkedin.com/in/veneese-julia-lazaraga-571bbb300/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-decoration-none"
+                style={{ color: '#f9a825', fontWeight: 'bold' }}
+              >
+              Veneese Julia Lazaraga
+              </a>
             </div>
           </div>
           <div className="col-md-6 col-lg-3 d-flex ftco-animate">
             <div className="align-self-stretch box p-4 text-center">
               <div className="icon d-flex align-items-center justify-content-center">
-                <span className="icon-phone2" />
+                <i className="fa-brands fa-instagram fa-2x" style={{ color: '#f9a825' }}></i>
               </div>
-              <h3 className="mb-4">Contact Number</h3>
+              <h3 className="mb-4">Instagram</h3>
               <p>
-                <a href="tel://1234567920">+ 1235 2355 98</a>
+                <a
+                  href="https://www.instagram.com/onyour_neese/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-decoration-none"
+                  style={{ color: '#f9a825', fontWeight: 'bold' }}
+                  >
+                  onyour_neese
+                </a>
               </p>
             </div>
           </div>
           <div className="col-md-6 col-lg-3 d-flex ftco-animate">
             <div className="align-self-stretch box p-4 text-center">
               <div className="icon d-flex align-items-center justify-content-center">
-                <span className="icon-paper-plane" />
+                <i className="fa-solid fa-envelope fa-2x" style={{ color: '#f9a825' }}></i>
               </div>
               <h3 className="mb-4">Email Address</h3>
               <p>
-                <a href="mailto:info@yoursite.com">info@yoursite.com</a>
+                <a
+                  href="mailto:veneesejulialazaraga@gmail.com"
+                  className="text-decoration-none"
+                  style={{ color: '#f9a825', fontWeight: 'bold' }}
+                >
+                veneesejulialazaraga@gmail.com
+                </a>
               </p>
             </div>
           </div>
           <div className="col-md-6 col-lg-3 d-flex ftco-animate">
             <div className="align-self-stretch box p-4 text-center">
               <div className="icon d-flex align-items-center justify-content-center">
-                <span className="icon-globe" />
+                 <i className="fa-brands fa-github fa-2x" style={{ color: '#f9a825' }}></i>
               </div>
-              <h3 className="mb-4">Website</h3>
+              <h3 className="mb-4">GitHub</h3>
               <p>
-                <a href="#">yoursite.com</a>
+                <a
+                  href="https://github.com/vnslzrg"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-decoration-none"
+                  style={{ color: '#f9a825', fontWeight: 'bold' }}
+                  >
+                  vnslzrg
+                </a>
               </p>
             </div>
           </div>
@@ -894,7 +687,7 @@ function App() {
           <div className="col-md-6 d-flex">
             <div
               className="img"
-              style={{ backgroundImage: "url(images/about.jpg)" }}
+              style={{ backgroundImage: "url(images/mee.png)" }}
             />
           </div>
         </div>
@@ -907,13 +700,12 @@ function App() {
             <div className="ftco-footer-widget mb-4">
               <h2 className="ftco-heading-2">About</h2>
               <p>
-                Far far away, behind the word mountains, far from the countries
-                Vokalia and Consonantia, there live the blind texts.
+                I’m always eager to learn new technologies and improve my craft. My goal is to create impactful digital products that make people’s lives easier and more enjoyable.
               </p>
               <ul className="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li className="ftco-animate">
                   <a href="#">
-                    <span className="icon-twitter" />
+                    <span className="icon-github" />
                   </a>
                 </li>
                 <li className="ftco-animate">
@@ -948,7 +740,7 @@ function App() {
                 <li>
                   <a href="#">
                     <span className="icon-long-arrow-right mr-2" />
-                    Services
+                    Skills
                   </a>
                 </li>
                 <li>
@@ -968,80 +760,24 @@ function App() {
           </div>
           <div className="col-md">
             <div className="ftco-footer-widget mb-4">
-              <h2 className="ftco-heading-2">Services</h2>
-              <ul className="list-unstyled">
-                <li>
-                  <a href="#">
-                    <span className="icon-long-arrow-right mr-2" />
-                    Web Design
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <span className="icon-long-arrow-right mr-2" />
-                    Web Development
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <span className="icon-long-arrow-right mr-2" />
-                    Business Strategy
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <span className="icon-long-arrow-right mr-2" />
-                    Data Analysis
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <span className="icon-long-arrow-right mr-2" />
-                    Graphic Design
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="col-md">
-            <div className="ftco-footer-widget mb-4">
               <h2 className="ftco-heading-2">Have a Questions?</h2>
               <div className="block-23 mb-3">
                 <ul>
                   <li>
                     <span className="icon icon-map-marker" />
                     <span className="text">
-                      203 Fake St. Mountain View, San Francisco, California, USA
+                      Apalit, Pampanga
                     </span>
                   </li>
                   <li>
                     <a href="#">
                       <span className="icon icon-phone" />
-                      <span className="text">+2 392 3929 210</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <span className="icon icon-envelope" />
-                      <span className="text">info@yourdomain.com</span>
+                      <span className="text">09192342331</span>
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 text-center">
-            <p>
-              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-              Copyright © All rights reserved | This template is made with{" "}
-              <i className="icon-heart color-danger" aria-hidden="true" /> by{" "}
-              <a href="https://colorlib.com" target="_blank">
-                Colorlib
-              </a>
-              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-            </p>
           </div>
         </div>
       </div>
