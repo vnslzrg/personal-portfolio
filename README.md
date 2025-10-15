@@ -68,4 +68,4 @@ You can access the live version of your portfolio once it's deployed:
 - **GitHub Pages URL:**
 https://vnslzrg.github.io/personal-portfolio
 - **Demo Recording:**
-(https://drive.google.com/drive/folders/1vHk1sEgU6xmSvZEy3HD_JXlo13Wf7kGb?usp=sharing)
+https://drive.google.com/drive/folders/1vHk1sEgU6xmSvZEy3HD_JXlo13Wf7kGb?usp=sharing
