@@ -8,18 +8,18 @@ The purpose of this portfolio is to provide a professional yet personal platform
 
 ### Portfolio Features
 This portfolio consists of several key sections:
-1. **Biography Section**
+1. **Biography Section:**
 A personal overview of who I am, my educational background, and my interests.
 A section detailing my passions and goals, providing a more personal touch beyond my technical skills.
-2. **Resume Section**
+2. **Resume Section:**
 Summarizing my work experience, key accomplishments, and skills.
 This section provides a quick way for potential employers to review my qualifications.
-3. **Skills Section**
+3. **Skills Section:**
 A visual presentation of the programming languages, frameworks, and tools I am proficient in.
-4. **Project Section**
+4. **Project Section:**
 A showcase of my technical projects, complete with descriptions.
 Visitors can explore the work I have done, understand my approach, and view my coding style.
-5. **Contact Section**
+5. **Contact Section:**
 A page allowing visitors to reach out to me via a contact form, email address, or through links to my professional social media profiles (e.g., LinkedIn, GitHub).
 This ensures that anyone interested in connecting with me can do so easily.
 
@@ -44,7 +44,7 @@ To run this project locally, follow the steps below:
 
 ### Installation
 1. Clone this repository to your local machine:
-    * git clone https://github.com/your-username/personal-portfolio.git
+    * git clone https://github.com/vnslzrg/personal-portfolio.git
 2. Navigate to the project directory:
     * cd personal-portfolio
 3. Install dependencies:
