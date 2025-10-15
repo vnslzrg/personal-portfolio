@@ -247,7 +247,7 @@ function App() {
           <div className="col-md-6 text-center ftco-animate">
             <p>
               <a
-                href="/Lazaraga_resume.pdf"
+                href="Lazaraga_resume.pdf"
                 download="Lazaraga_resume.pdf"
                 className="btn btn-primary py-3 px-4 small-btn"
               >
